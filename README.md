@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20-000000?style=flat-square" width="60"/>
+<img src="" width="60"/>
 
 </div>
 
