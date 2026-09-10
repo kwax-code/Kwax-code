@@ -87,10 +87,10 @@ desktop apps · browser games · server tools.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&langs_count=6" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kwax-code&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwax-code&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&langs_count=6" width="48%"/>
 
-<img src="https://streak-stats.demolab.com/?user=your-username&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=kwax-code&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888" width="60%"/>
 
 </div>
 
