@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="asuka.jpg" width="60"/>
+<img src="assuka.jpg" width="60"/>
 
 </div>
 
