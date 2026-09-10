@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="rei.png" alt="Rei Ayanami" width="700">
+  <img src="ayanami.jpg" alt="Rei Ayanami" width="700">
 </p>
