@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=180&section=header&text=%20&fontColor=ffffff" width="100%"/>
+<img src="Rei Ayanami.jpg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&letterSpacing=2px&lines=who+are+you%3F;a+developer.;that+is+all.;i+build%2C+i+ship%2C+i+leave." alt="typing" />
 
