@@ -6,6 +6,11 @@
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/твой-ник/твой-ник/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/kwax-code/kwax-code/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
 <img src="assuka.jpg" width="60"/>
 
 </div>
@@ -107,5 +112,11 @@ desktop apps · browser games · server tools.
 
 <br/><br/>
 
+<sub>that's all there is.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=100&section=footer" width="100%"/>
 
 </div>
+
