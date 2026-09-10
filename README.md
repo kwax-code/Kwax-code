@@ -107,6 +107,5 @@ desktop apps · browser games · server tools.
 
 <br/><br/>
 
-<img src="images (1).jpg" width="100%"/>
 
 </div>
