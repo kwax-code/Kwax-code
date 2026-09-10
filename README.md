@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Rei Ayanami.jpg" width="100%"/>
+<img src="Rei Ayanam.jpg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&letterSpacing=2px&lines=who+are+you%3F;a+developer.;that+is+all.;i+build%2C+i+ship%2C+i+leave." alt="typing" />
 
