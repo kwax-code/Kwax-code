@@ -59,9 +59,7 @@ desktop apps · browser games · server tools.
 
 <div align="center">
 
-```
-────────────────────────────
-```
+---
 
 </div>
 
@@ -96,9 +94,7 @@ desktop apps · browser games · server tools.
 
 <div align="center">
 
-```
-────────────────────────────
-```
+---
 
 <br/>
 
