@@ -107,6 +107,6 @@ desktop apps · browser games · server tools.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=100&section=footer" width="100%"/>
+<img src="images (1).jpg" width="100%"/>
 
 </div>
